@@ -3,7 +3,7 @@ import React from "react";
 export default function Hero() {
   return (
     <section style={{ padding: "60px 20px" }}>
-      <h2 style={{ fontSize: "2.8rem" }}>assalamualaikum Riska Atika Zahra 💕</h2>
+      <h2 style={{ fontSize: "2.8rem" }}>assalamualaikum Riska Atika Zahra</h2>
       <p style={{ fontSize: "1.3rem", marginTop: "10px" }}>
         masi inget engga HAHAHAH? 🌸
       </p>
