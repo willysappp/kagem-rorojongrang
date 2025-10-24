@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kagem-rorojongrang/static/css/main.f2722c51.css",
+    "main.js": "/kagem-rorojongrang/static/js/main.b6e17046.js",
+    "index.html": "/kagem-rorojongrang/index.html",
+    "main.f2722c51.css.map": "/kagem-rorojongrang/static/css/main.f2722c51.css.map",
+    "main.b6e17046.js.map": "/kagem-rorojongrang/static/js/main.b6e17046.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2722c51.css",
+    "static/js/main.b6e17046.js"
+  ]
+}
