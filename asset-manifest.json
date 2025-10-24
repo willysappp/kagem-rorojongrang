@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kagem-rorojongrang/static/css/main.f2722c51.css",
-    "main.js": "/kagem-rorojongrang/static/js/main.b6e17046.js",
+    "main.js": "/kagem-rorojongrang/static/js/main.b3f1409f.js",
     "index.html": "/kagem-rorojongrang/index.html",
     "main.f2722c51.css.map": "/kagem-rorojongrang/static/css/main.f2722c51.css.map",
-    "main.b6e17046.js.map": "/kagem-rorojongrang/static/js/main.b6e17046.js.map"
+    "main.b3f1409f.js.map": "/kagem-rorojongrang/static/js/main.b3f1409f.js.map"
   },
   "entrypoints": [
     "static/css/main.f2722c51.css",
-    "static/js/main.b6e17046.js"
+    "static/js/main.b3f1409f.js"
   ]
 }
